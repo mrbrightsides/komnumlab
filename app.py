@@ -3,7 +3,7 @@ import streamlit.components.v1 as components
 
 st.set_page_config(
     page_title="KomNumLab",
-    page_icon="🗜",
+    page_icon="⚙️",
     layout="wide"
 )
 
@@ -56,7 +56,7 @@ with st.sidebar:
     16. [OpenAPI](https://rantai-openapi.streamlit.app/) → temporarily pending development
     17. [Numerical Methods Lab](https://metnumlab.streamlit.app/) → beta version
     18. [Computational Analytics Studio](https://komnumlab.streamlit.app/) → beta version
-    19. [BlockBook](https://blockpedia.streamlit.app/) → temporarily pending development
+    19. [BlockBook](https://blockbook.streamlit.app/) → temporarily pending development
     20. [BlockPedia](https://blockpedia.streamlit.app/)
     
     ---
